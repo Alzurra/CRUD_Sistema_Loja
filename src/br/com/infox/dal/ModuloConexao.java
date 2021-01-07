@@ -20,8 +20,8 @@ public class ModuloConexao {
         String driver = "com.mysql.jdbc.Driver";
         // armazenando informações referentes ao banco
         String url = "jdbc:mysql://localhost:3306/XXXXXXX";
-        String user = "root";
-        String password = "";
+        String user = "XXXXXXXXXXX";
+        String password = "XXXXXXXXXXXXXXXXXXXX";
         // Estabelecendo a conexão com o banco
         try {
             Class.forName(driver);
